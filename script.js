@@ -49,6 +49,8 @@ document.addEventListener("DOMContentLoaded", () => {
                 taskDiv.appendChild(taskName);
                 taskDiv.appendChild(deleteBtn);
                 taskContainer.appendChild(taskDiv);
+                // Adding a comment again
+                
                 
             });
         }
